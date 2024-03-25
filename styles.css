@@ -298,6 +298,11 @@ header {
     justify-content: space-between;
   }
 
+  .nav-tab:link,
+  .nav-tab:visited {
+    font-size: 20px;
+  }
+
   /* HERO STYLES */
 
   .hero-container {
