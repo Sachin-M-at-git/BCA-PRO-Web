@@ -252,7 +252,7 @@ header {
   stroke-width: 2px;
 }
 
-@media (min-width: 320px) and (max-width: 426px) {
+@media (max-width: 1023px) {
   .container {
     margin: 0 auto;
     width: 370px;
